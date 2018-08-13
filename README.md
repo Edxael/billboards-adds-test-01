@@ -41,3 +41,4 @@ let HelioTraining = ( student = 'Edmundo Rubio' ) => {
 
 ***********************************************
 
+By: Edmundo Rubio.
